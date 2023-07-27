@@ -1,0 +1,28 @@
+{
+    "transactionId": "qwerty",
+    "custName": "Harip",
+    "itemName": "KCF",
+    "itemPrice": 10000,
+    "itemQty": 1,
+    "paymentType":"MDR",
+    "location":"Cikarang"
+},,
+{
+    "transactionId":"qwerty",
+    "type": "transactions"
+},,
+{
+    "status": ""
+},,
+{
+     "status": ""
+},,
+{
+      "status": ""
+},,
+{
+      "status": ""
+},,
+{
+      "status": ""
+}
